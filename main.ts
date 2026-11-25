@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
+// One original line of fortune-cookie wisdom for a developer.
 const line =
   "A comment you skip today returns as a stranger you debug tomorrow.";
 
